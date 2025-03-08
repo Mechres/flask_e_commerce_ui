@@ -1,6 +1,6 @@
 # e_commerce_ui
 
-Flask E-Commerce UI
+Flutter E-Commerce UI
 
 
 
